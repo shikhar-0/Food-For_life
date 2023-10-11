@@ -8,6 +8,3 @@ This site has been deployed on Github.
 The following tech stack has been used for making of this website :-
 
 HTML,CSS,JavaScript
-
-Link of Website: https://ashishmaurya108.github.io/Food-for-Life/
-Alternate Link : https://vishal1015.github.io/Food-For-Life/#donate
